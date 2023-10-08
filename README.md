@@ -13,8 +13,9 @@ Python Library that helps the user to backtest any strategy or combinations of s
   - Easy to implement new functions or custom calculations!
   - use_main.ipynb: example to use the above library.
   
+How to use??
+![Screenshot 2023-10-08 103726](https://github.com/bbmusa/EasyBt/assets/65719349/608aff3f-66b3-42d1-80b7-e62a1e7a1704)
 
-!Screenshot 2023-10-08 103726
 
 -- Yashaswa Varshney
 -- Connect with me on LinkedIn: https://www.linkedin.com/in/yashaswa-varshney/  
